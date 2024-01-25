@@ -1,0 +1,5 @@
+package com.api.thriller.entity;
+
+public enum Types {
+    THRILLER, SUSPENSE_SUPERNATURAL, SUSPENSE_POLICE, MYSTERY, SUSPENSE_ESPIONAGE, HORROR, HORROR_SCIFI
+}
